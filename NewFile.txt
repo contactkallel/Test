@@ -1,0 +1,11 @@
+ Le volume dans le lecteur F n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 4A10-C8CC
+
+ R‚pertoire de F:\ISTQB\FirstProjetGitDev
+
+02/08/2020  09:36 AM    <DIR>          .
+02/08/2020  09:36 AM    <DIR>          ..
+02/08/2020  09:35 AM                 0 file.txt
+02/08/2020  09:36 AM                 0 NewFile.txt
+               2 fichier(s)                0 octets
+               2 R‚p(s)  294ÿ935ÿ293ÿ952 octets libres
